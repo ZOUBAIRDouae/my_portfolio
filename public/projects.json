@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2,
+    "name": "Planning training sessions",
+    "description": "A web app for digitizing and managing training session schedules using Laravel, TailwindCSS, and MySQL.",
+    "status": "in-progress",
+    "demo": "#",
+    "github": "https://github.com/ZOUBAIRDouae/Projet_Fil_Rouge",
+    "image": "/images/lms.svg",
+    "technologies": ["Laravel", "TailwindCSS", "mysql"],
+    "role": "Full-stack Developer - Responsible for building the back-end with Laravel, integrating it with Vue.js for dynamic UI, and ensuring proper database management."
+  },
+  {
+    "id": 3,
+    "name": "E-commerce website",
+    "description": "A Laravel 11 and Vue 3 e-commerce website.",
+    "status": "in-progress",
+    "demo": "#",
+    "github": "https://github.com/ZOUBAIRDouae/DataPro",
+    "image": "/images/e-commerce.png",
+    "technologies": ["Laravel", "Vue.js", "TailwindCSS", "mysql"],
+    "role": "Full-stack Developer - Responsible for building the back-end with Laravel, integrating it with Vue.js for dynamic UI, and ensuring proper database management."
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Website",
+    "description": "A personal portfolio showcasing projects, skills, and experience, built with Vue.js and TailwindCSS.",
+    "status": "active",
+    "demo": "#",
+    "github": "https://github.com/ZOUBAIRDouae/Portfolio",
+    "image": "/images/my-portfolio.png",
+    "technologies": ["Vue.js", "TailwindCSS", "Vercel"],
+    "role": "Front-end Developer - Built a responsive portfolio with Vue.js and TailwindCSS, ensuring a smooth user experience and fast performance."
+  },
+  {
+    "id": 5,
+    "name": "Blog app",
+    "description": "A dynamic blogging platform built with Laravel 11, featuring article management, comment support, modular architecture, and a clean TailwindCSS interface.",
+    "status": "in-progress",
+    "demo": "#",
+    "github": "https://github.com/ZOUBAIRDouae/Portfolio",
+    "image": "/images/blog.png",
+    "technologies": ["Vue.js", "TailwindCSS", "Vercel"],
+    "role": "Front-end Developer - Built a responsive portfolio with Vue.js and TailwindCSS, ensuring a smooth user experience and fast performance."
+  }
+]

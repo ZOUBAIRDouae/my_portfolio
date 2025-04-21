@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Finding a job is a job Workshop",
+        "issuer": "SoliCode Tanger",
+        "date": "2024-11-21",
+        "image" : "/images/attestation.jpeg",
+        "description": "I attended the (Find a Job is a Job) workshop at SoliCode, focused on soft skills and job-search strategies. We learned how to create an effective CV, prepare for interviews, and approach job hunting with a professional mindset. It was a valuable experience for building confidence and employability."
+      },
+      {
+        "title": "Golden Talks Workshop",
+        "issuer": "Youth Club Hasnouna Tanger",
+        "date": "2024-11-28",
+        "image" : "/images/Talks.jpeg",
+        "description": "I recently had the opportunity to attend the Golden Talks workshop at the Hasnouna Youth Club in Tangier. It was an inspiring event focused on entrepreneurship and leadership, bringing together young people eager to learn and grow with experienced speakers who shared valuable insights from their personal journeys."
+      }
+
+]

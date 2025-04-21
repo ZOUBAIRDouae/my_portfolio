@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Student Web Development Projects - Year 1",
+        "company": "ISMONTIC Tanger",
+        "location": "Tanger, Morocco",
+        "start_date": "2022-09-07",
+        "end_date": "2023-06-01",
+        "description": "Completed various web development projects as part of academic studies, including front-end and back-end technologies such as HTML, CSS, PHP, and JavaScript. Worked on deploying web applications using GitHub Pages."
+    },
+    {
+        "id": 2,
+        "title": "Student Full Stack Development Projects - Year 2",
+        "company": "ISMONTIC Tanger",
+        "location": "Tanger, Morocco",
+        "start_date": "2023-09-05",
+        "end_date": "2024-06-26",
+        "description": "Completed various web development projects as part of academic studies, including front-end and back-end technologies such as HTML, CSS, PHP, and JavaScript. Worked on deploying web applications using GitHub Pages."
+    },
+    {
+        "id": 3,
+        "title": "Student Web and Mobile Development Projects - Year 3",
+        "company": "SoliCode Tanger",
+        "location": "Tanger, Morocco",
+        "start_date": "2024-09-01",
+        "end_date": "Present",
+        "description": "Focusing on both web and mobile development in the second year. Working with technologies like Laravel, Vue.js, Kotlin for mobile apps, and database management. Building dynamic web and mobile applications while improving coding practices and collaborating on team projects."
+    },
+    {
+        "id": 4,
+        "title": "internship-Emailing",
+        "company": "Offerstech",
+        "location": "Tanger, Morocco",
+        "start_date": "2024-05-01",
+        "end_date": "2024-05-31",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "title": "Workshop Participant - Finding a job is a job.",
+        "company": "SoliCode Tanger",
+        "location": "Tanger, Morocco",
+        "start_date": "2024-11-19",
+        "end_date": "2024-11-21",
+        "description": "Contributed to a team workshop on Git and GitHub for IT students. Collaborated with team members to cover essential topics such as version control, branching, pull requests, and collaboration best practices."
+    },
+    {
+        "id": 6,
+        "title": "Workshop Participant - Networks and Networking Basics.",
+        "company": "SoliCode Tanger",
+        "location": "Tanger, Morocco",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20",
+        "description": "Worked as part of a team to deliver a workshop on computer networking fundamentals. Helped prepare and present topics such as network types, IP addressing, and networking protocols for IT students."
+    }
+]

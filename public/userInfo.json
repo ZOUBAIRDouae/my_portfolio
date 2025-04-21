@@ -1,0 +1,96 @@
+{
+  "FirstName": "Douae",
+  "LastName": "Zoubair",
+  "title": "Full Stack Developer | Laravel & Vue.js",
+  "location": "Tanger, Morocco",
+  "Email": "douae.zoubair04@gmail.com",
+  "Phone": "+212 763 301 596",
+  "LinkedIn": "https://www.linkedin.com/in/douae-zoubair-20b52729b/",
+  "CV" : "https://www.canva.com/design/DAF0XDjgPHA/gMjQPsCU-B_C4XYrp_8kSg/edit?utm_content=DAF0XDjgPHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+  "Github" : "https://github.com/ZOUBAIRDouae",
+  "Summary": "Passionate Full Stack Developer with experience in Laravel and Vue.js. Skilled in building web and mobile applications, integrating databases, and working with modern frameworks. Currently studying Web & Mobile Development at SoliCode Tanger.",
+  "About": "I'm Douae Zoubair, a full-stack developer passionate about building scalable web apps, e-commerce platforms, and dashboards using Laravel and Vue.js. I focus on clean code, user-friendly interfaces, and efficient database management. I love solving problems, automating tasks, and creating impactful software. I'm always learning and experimenting with new tech to push boundaries and deliver meaningful solutions.I tried to keep it simple and concise.",
+  "Languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "French",
+      "level": "Intermediate"
+    },
+    {
+      "name": "English",
+      "level": "Upper-intermediate"
+    }
+  ],
+  "Educations": [
+    {
+      "id": 1,
+      "title": "Web & Mobile Development",
+      "location": "SoliCode Tanger, Morocco",
+      "description": "Studying Frontend & Backend Development with a focus on Laravel, Vue.js, and Kotlin for Mobile Development.",
+      "start_date": "2024-09-01",
+      "end_date": "Present"
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Development (Diploma)",
+      "location": "ISMONTIC Tanger, Morocco",
+      "description": "Studied Frontend & Backend Development, focusing on Laravel, React, SoftSkills.",
+      "start_date": "2023-09-05",
+      "end_date": "2024-06-26"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "location": "ISMONTIC Tanger, Morocco",
+      "description": "Studied Frontend & Backend Development, focusing on PHP, JAVASCRIPT, SQL, MYSQL.",
+      "start_date": "2022-09-07",
+      "end_date": "2024-06-01"
+    },
+    {
+      "id": 4,
+      "title": "High School Diploma (Baccalaureate)",
+      "location": "Ksar el kebir, Morocco",
+      "description": "Completed secondary education with a focus on scientific and technical studies.",
+      "start_date": "2021-09-01",
+      "end_date": "2022-05-01"
+    }
+  ],
+  "Certifications": [
+    {
+      "id": 1,
+      "title": "Finding a job is a job Workshop",
+      "issuer": "SoliCode Tanger",
+      "date": "2024-11-21",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "title": "Golden Talks Workshop",
+      "issuer": "Youth Club Hasnouna Tanger",
+      "date": "2024-11-28",
+      "description": ""
+    }
+    
+  ],
+  "Diplomas":[
+    {
+      "id": 1,
+      "title": "Frontend & Backend Development",
+      "issuer": "ISMONTIC Tanger",
+      "date": "2024-06-26",
+      "description": "Completed a 6-month intensive program in Frontend & Backend Development, focusing on Laravel, React, SoftSkills."
+    }
+  ],
+  "AdditionalSkills": [
+    "Problem-solving",
+    "Teamwork",
+    "Time Management",
+    "Adaptability",
+    "Communication Skills",
+    "Agile Methodology",
+    "UI/UX Design Basics"
+  ]
+}

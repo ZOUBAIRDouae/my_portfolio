@@ -56,10 +56,6 @@
             </div>
         </div>
 
-        <!-- Background Image (for larger screens) -->
-        <div class="hidden lg:block absolute top-0 right-0 w-1/2 z-0">
-            <img src="../assets/yellow-bg.svg" alt="Yellow Background" class="w-full h-auto object-cover" />
-        </div>
     </div>
 </template>
 

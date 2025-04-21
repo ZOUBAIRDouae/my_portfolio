@@ -50,7 +50,7 @@
     "status": "in-progress",
     "demo": "#",
     "github": "hhttps://github.com/ZOUBAIRDouae/Todolist",
-    "image": "/images/",
+    "image": "/images/todo.png",
     "technologies": ["Kotlin" , "jetpack compose"],
     "role": "FullStack Developer – ToDo List Application (Personal Project)"
   }

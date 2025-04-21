@@ -27,7 +27,7 @@
                     <div class="flex flex-wrap justify-center lg:justify-start gap-4 mt-7">
 
                         <!-- Resume Button -->
-                        <BaseButton @click="downloadResume()" :text="'Resume <i class=\'fa-solid fa-file-arrow-down ml-2\'></i>'"  title="Download Resume"
+                        <BaseButton @click="downloadResume()" download :text="'Resume <i class=\'fa-solid fa-file-arrow-down ml-2\'></i>'"  title="Download Resume"
                             btnClass="px-5 py-2 text-sm sm:text-base bg-primary text-black font-semibold rounded-lg shadow-md hover:bg-gray-500 transition duration-300" />
 
                         <!-- Contact Button -->
@@ -72,8 +72,8 @@ const scrollToSection = (section) => {
 
 const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/resume.pdf';
-    link.download = 'resume.pdf';
+    link.href = '/Douae_Zoubair_FullStack_Developer.pdf';
+    link.download = 'Douae_Zoubair_FullStack_Developer.pdf';
     link.click();
 };
 </script>

@@ -40,7 +40,7 @@
                             <i class="fab fa-github text-lg sm:text-xl"></i>
                         </a>
 
-                        <a href="https://www.linkedin.com/in/Douae Zoubair/" target="_blank"
+                        <a href="https://www.linkedin.com/in/douae-zoubair-20b52729b/" target="_blank"
                             class="w-9 h-9 sm:w-10 sm:h-10 flex items-center justify-center rounded-full bg-white text-gray-900 shadow-md hover:bg-gray-400 hover:text-white transition duration-300">
                             <i class="fab fa-linkedin text-lg sm:text-xl"></i>
                         </a>

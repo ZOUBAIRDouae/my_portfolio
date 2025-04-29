@@ -10,7 +10,7 @@
                 class="flex flex-col items-center bg-white border border-gray-200 rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300">
 
                 <img v-if="project.image" :src="project.image" alt="Project Image"
-                    class="w-full h-56 object-cover md:rounded-t-2xl p-4" />
+                    class="w-50 h-56 object-cover md:rounded-t-2xl p-4" />
 
                 <div class="p-6 w-full">
                     <h5 class="text-2xl font-extrabold text-gray-900 mb-2">{{ project.name }}</h5>
